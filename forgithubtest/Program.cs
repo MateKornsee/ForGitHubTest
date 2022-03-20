@@ -76,7 +76,8 @@ namespace forgithubtest
                     break;
                     }
                 }
-            Console.WriteLine("vége");
+            Console.WriteLine("asdasd");
+            Console.WriteLine("végeasd");
         }
     }
 }

@@ -49,7 +49,7 @@ namespace forgithubtest
                 var a = new Task(() => MasikHosszuFeladat(tokenSourcea.Token));
                 a.Start();
                 t.Start();
-            bool x=false; bool y=false;
+                bool x=false; bool y=false;
                 while (true)
                 {
                     var consoleKey = Console.ReadKey();
@@ -76,8 +76,6 @@ namespace forgithubtest
                     break;
                     }
                 }
-            Console.WriteLine("asdasd");
-            Console.WriteLine("végeasd");
         }
     }
 }

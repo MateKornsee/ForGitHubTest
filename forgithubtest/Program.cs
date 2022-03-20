@@ -76,6 +76,7 @@ namespace forgithubtest
                     break;
                     }
                 }
+            Console.WriteLine("uj");
         }
     }
 }

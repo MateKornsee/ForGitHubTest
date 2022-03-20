@@ -75,7 +75,8 @@ namespace forgithubtest
                     {
                     break;
                     }
-                }           
+                }
+            Console.WriteLine("vége");
         }
     }
 }

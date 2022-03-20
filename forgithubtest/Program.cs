@@ -11,6 +11,7 @@ namespace forgithubtest
         static void Main(string[] args)
         {
             Console.WriteLine("homegithubtest");
+            Console.ReadLine();
         }
     }
 }

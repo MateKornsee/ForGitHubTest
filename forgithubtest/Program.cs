@@ -12,6 +12,7 @@ namespace forgithubtest
         {
             Console.WriteLine("homegithubtest");
             Console.WriteLine(2+2);
+            Console.WriteLine(3+3);
             Console.ReadLine();
         }
     }
